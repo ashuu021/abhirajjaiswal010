@@ -7,14 +7,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=100&color=F5EEDD&center=true&vCenter=true&width=435&lines=HI!+I'm+Abhiraj+Jaiswal+%F0%9F%91%8B;Frontend+Dev+%7C+Chill+Coder;Welcome+to+my+tech+universe+%F0%9F%8C%8C" />
 </h1>
 
- ## 🏆About Me
+## 🏆 About Me
 
 <table align="center">
   <tr>
     <td>
 
-<!-- Text goes here -->
-  
 - 👨‍💻 I'm a **Computer Science student** on a mission to blend creativity + code  
 - 💻 Currently working on: **3D Portfolio**, **Skill Tracker** App  
 - 🎨 Into design, frontend magic, and chill UI/UX  
@@ -28,9 +26,6 @@
     </td>
   </tr>
 </table>
-
-
-
 
 ---
 
@@ -50,7 +45,20 @@
 
 ---
 
+## 🔥 GitHub Stats
 
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=abhirajjaiswal010&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" height="160" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhirajjaiswal010&theme=tokyonight&hide_border=true&border_radius=15" height="160" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=abhirajjaiswal010&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160" />
+
+</div>
 
 ---
 
@@ -69,18 +77,3 @@
 </p>
 
 ---
-
-## 🧠 My Dev Anime Arc
-
-```yaml
-Prologue: 
-  - Shy student with big dreams, obsessed with cool websites
-
-Training Arc:
-  - Mastering frontend, trying MERN spells, failing & learning daily
-
-Battle Arc:
-  - Freelance projects, late night debugging, endless CSS tweaks
-
-Evolution:
-  - UI-focused dev with anime-level passion and clean code energy ✨
